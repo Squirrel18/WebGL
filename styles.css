@@ -4,3 +4,10 @@ body {
     border: none;
     height: 100%;
 }
+
+#canvasGL {
+    position: relative;
+    top: 35px;
+    display: block;
+    margin: auto;
+}
