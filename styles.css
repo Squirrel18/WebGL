@@ -1,13 +1,4 @@
-body {
-    margin: 0;
-    padding: 0;
-    border: none;
-    height: 100%;
-}
-
-#canvasGL {
-    position: relative;
-    top: 35px;
-    display: block;
-    margin: auto;
+#glcanvas {
+    width: 640px;
+    height: 480px;
 }
